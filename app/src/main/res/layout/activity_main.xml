@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDEEF1"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/appname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SUDOKAI"
+        android:textSize="64sp"
+        android:textColor="#768591"
+        android:textStyle="bold"
+        android:layout_marginTop="69dp"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/playBtn"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:text="PLAY"
+        android:textSize="32sp"
+        android:textColor="#768591"
+        android:background="@drawable/button_border"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/levelBtn"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="260dp"
+        android:text="LEVEL: EASY"
+        android:textSize="32sp"
+        android:textColor="#768591"
+        android:background="@drawable/button_border"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/guideBtn"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="320dp"
+        android:text="GUIDE"
+        android:textSize="32sp"
+        android:textColor="#768591"
+        android:background="@drawable/button_border"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/aboutBtn"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="380dp"
+        android:text="ABOUT"
+        android:textSize="32sp"
+        android:textColor="#768591"
+        android:background="@drawable/button_border"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/quitGameBtn"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="440dp"
+        android:text="QUIT GAME"
+        android:textSize="32sp"
+        android:textColor="#768591"
+        android:background="@drawable/button_border"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

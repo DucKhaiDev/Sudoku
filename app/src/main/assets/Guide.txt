@@ -1,0 +1,11 @@
+Hướng dẫn:
+Bước 1: Chọn mức chơi
+	Easy: Dễ
+	Medium: Trung bình
+	Difficult: Khó
+Bước 2: Nhấn PLAY để bắt đầu màn chơi
+=============================
+Luật chơi SUDOKU:
+1. 	Các hàng ngang: Phải có đủ các số từ 1 đến 9, không cần đúng thứ tự. Không trùng số nào ở hàng ngang
+2.	Các hàng dọc: Đảm bảo có đủ các số từ 1 đến 9, không cần theo thứ tự. Không trùng số nào ở hàng dọc
+3.	Mỗi vùng 3x3: Cũng phải có đủ các số từ 1 đến 9. Không trùng số nào trong cùng 1 vùng 3x3
